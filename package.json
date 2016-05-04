@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chienthan3241/koa/issues"
   },
-  "homepage": "https://github.com/chienthan3241/koa#readme"
+  "homepage": "https://github.com/chienthan3241/koa#readme",
+  "dependencies": {
+    "koa": "^1.2.0"
+  }
 }
